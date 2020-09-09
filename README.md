@@ -1,6 +1,6 @@
 # active-learning
 
-This is en implementation of various active learning algorithms.
+This is an implementation of various active learning algorithms.
 Stream based unceratinity sampling and query by commitee is implemented.
 Pool based uncertatinity sampling abnd QBC is also implemented.
 
